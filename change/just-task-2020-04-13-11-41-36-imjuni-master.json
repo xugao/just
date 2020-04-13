@@ -1,0 +1,8 @@
+{
+  "type": "patch",
+  "comment": "Fix TS target to make generated code work with node.js",
+  "packageName": "just-task",
+  "email": "kchau@microsoft.com",
+  "commit": "6cbae043a7c9eaf5fe45e0a80f0f27f633b776f3",
+  "date": "2020-04-13T18:41:36.065Z"
+}
